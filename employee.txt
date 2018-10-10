@@ -1,0 +1,6 @@
+Anurag, 12, 49
+Anuprita, 8.5, 60
+Mohnish, 8, 40
+Sakshi, 7.5, 43
+Divya, 9, 63
+Abhishek, 20, 20
